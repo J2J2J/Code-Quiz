@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(81, 145, 219);
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+  }
+  div#test{
+    max-width: 600px;
+    margin: auto;
+    border:#b4d3df 3px solid;
+    padding:10px 40px 40px 40px;
+    background-color:#2b91e6;
+  }
+    
+  

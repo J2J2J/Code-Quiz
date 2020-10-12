@@ -1,0 +1,25 @@
+body {
+    position:fixed;
+    top:auto;
+    bottom:auto;
+    left:auto;
+    right:0;
+    background-color:rgb(81, 145, 219)
+}
+
+button {
+    background-color: #2b91e6;
+    border-color: white;
+    border-width: 2px;
+    color: white;
+    padding: 15px 32px;
+    font-size: 80px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 300px 550px;
+}
+
+button:hover {
+    background-color: #35c1da
+}
